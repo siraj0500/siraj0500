@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @sirajudheen.
 - 👀 Python developer.
 - 💞️ I’m looking to collaborate on any Web development based projects.
-- 📫 How to reach me :- https://www.linkedin.com/in/sirajudheen-asharaf-ba1471230/ or sirajudheen1ta@gmail.com
-- 
+- 📫 How to reach me :- https://www.linkedin.com/in/sirajudheen-asharaf/ or sirajudheen1ta@gmail.com
